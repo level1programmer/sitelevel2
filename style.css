@@ -1,0 +1,359 @@
+div {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(185, 175, 214, 1) 43%, rgba(148, 177, 233, 1) 100%);
+  margin-top: 0;
+  text-align: center;
+  font-family: Lucida Handwriting;
+  margin: 0;
+  border: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+body {
+  margin: 0;
+  background-color: #E6E6E6;
+}
+
+hr {
+  border: 0;
+  border-top: 5px;
+  border-style: dotted;
+  width: 5%;
+  border-color: #14279B;
+  margin-bottom: 0;
+}
+
+.div2 {
+  width: 49%;
+  float: left;
+  height: 1250px;
+  border: solid;
+  border-left: none;
+  border-bottom: none;
+  border-color: #3D56B2;
+  border-width: 9px;
+}
+
+/********************* COLOR PALETTE *****************/
+/* #14279B
+  #3D56B2
+  #5C7AEA
+  #E6E6E6
+  ***************************************************/
+.div3 {
+  width: 50%;
+  float: right;
+  height: 1250px;
+  border: solid;
+  border-right: none;
+  border-bottom: none;
+  border-color: #3D56B2;
+  border-width: 10.03px;
+}
+
+.TOPTITLE {
+  font-size: 35px;
+}
+
+.TITLE {
+  height: 300px;
+  background: rgb(251, 63, 237);
+  background: linear-gradient(180deg, rgba(251, 63, 237, 1) 0%, rgba(181, 74, 242, 1) 16%, rgba(129, 83, 246, 1) 59%, rgba(63, 94, 251, 1) 85%);
+}
+
+p {
+  margin: 0;
+}
+
+.xx {
+  background: rgb(251, 63, 237);
+  background: linear-gradient(90deg, rgba(251, 63, 237, 1) 0%, rgba(181, 74, 242, 1) 16%, rgba(129, 83, 246, 1) 59%, rgba(63, 94, 251, 1) 85%, rgba(205, 76, 143, 1) 97%, rgba(252, 70, 107, 1) 100%);
+  margin-bottom: 0px;
+  margin: none;
+  border-bottom-right-radius: 75%;
+}
+
+.xy {
+  background: rgb(251, 63, 237);
+  background: linear-gradient(270deg, rgba(251, 63, 237, 1) 0%, rgba(181, 74, 242, 1) 16%, rgba(129, 83, 246, 1) 59%, rgba(63, 94, 251, 1) 85%, rgba(205, 76, 143, 1) 97%, rgba(252, 70, 107, 1) 100%);
+  margin-bottom: 0px;
+  margin: none;
+  border-bottom-left-radius: 75%;
+}
+
+.kaleb {
+  border-radius: 50%;
+}
+
+.jason {
+  border-radius: 50%;
+}
+
+.burton2 {
+  height: 510px;
+}
+
+.div1snowboard img {
+  width: 100%;
+}
+
+.div1snowboard {
+  opacity: 0.5;
+}
+
+.div1snowboard:hover {
+  opacity: 1;
+  background-color: #E6E6E6;
+}
+
+.div3snowboard {
+  opacity: 0.5;
+}
+
+.div3snowboard:hover {
+  opacity: 1;
+  background-color: #E6E6E6;
+}
+
+.div2snowboard, .div1snowboard {
+  height: 930px;
+}
+
+.div3snowboard {
+  height: 930px;
+}
+
+.div2snowboard img {
+  width: 45%;
+}
+
+.description {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.div2snowboard img:hover {
+  background-color: gold;
+}
+
+.div3snowboard img {
+  width: 100%;
+}
+
+.div2snowboard p {
+  padding: 2px;
+}
+
+.div1snowboard {
+  font-family: Comic Sans MS;
+  float: left;
+  width: 40%;
+}
+
+.div2snowboard {
+  font-family: Comic Sans MS;
+  width: 20%;
+  float: left;
+  height: 950;
+}
+
+.tabelsnow {
+  border-spacing: 20px;
+  text-align: center;
+  height: 150px;
+}
+
+.tabelsnow {
+  position: relative;
+  top: 90px;
+  left: 50px;
+}
+
+.tablee {
+  height: 300px;
+}
+
+.tabelsnowHEAD {
+  text-decoration: underline wavy red;
+}
+
+.mountain {
+  position: absolute;
+  height: 200px;
+  right: 0px;
+}
+
+.mountain2 {
+  position: absolute;
+  height: 200px;
+  left: 0px;
+}
+
+.cloud {
+  left: 0px;
+  top: 50px;
+  position: absolute;
+}
+
+.cloud2 {
+  right: 0px;
+  top: 50px;
+  position: absolute;
+}
+
+.cloud3 {
+  right: 400px;
+  top: 100px;
+  position: absolute;
+}
+
+.cloud4 {
+  left: 400px;
+  top: 100px;
+  position: absolute;
+}
+
+.cloud5 {
+  left: 600px;
+  top: 0px;
+  position: absolute;
+}
+
+.cloud6 {
+  right: 600px;
+  top: 0px;
+  position: absolute;
+}
+
+.snowflake {
+  position: absolute;
+  height: 50px;
+  left: 780px;
+  top: 0px;
+}
+
+.snowflake2 {
+  position: absolute;
+  height: 50px;
+  right: 780px;
+  top: 0px;
+}
+
+.snowflake3 {
+  position: absolute;
+  height: 30px;
+  right: 700px;
+  top: 80px;
+}
+
+.snowflake4 {
+  position: absolute;
+  height: 30px;
+  right: 620px;
+  top: 120px;
+}
+
+.snowflake5 {
+  position: absolute;
+  height: 30px;
+  right: 700px;
+  top: 160px;
+}
+
+.snowflake6 {
+  position: absolute;
+  height: 30px;
+  right: 620px;
+  top: 200px;
+}
+
+.snowflake7 {
+  position: absolute;
+  height: 30px;
+  left: 700px;
+  top: 80px;
+}
+
+.snowflake8 {
+  position: absolute;
+  height: 30px;
+  left: 620px;
+  top: 120px;
+}
+
+.snowflake9 {
+  position: absolute;
+  height: 30px;
+  left: 700px;
+  top: 160px;
+}
+
+.snowflake10 {
+  position: absolute;
+  height: 30px;
+  left: 620px;
+  top: 200px;
+}
+
+.snowtr {
+  opacity: 0.6;
+  height: 300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.snowtr2 {
+  opacity: 0.5;
+  height: 300px;
+  position: absolute;
+  left: 300px;
+  top: 0px;
+}
+.snowtr3 {
+  opacity: 0.3;
+  height: 300px;
+  position: absolute;
+  left:600px;
+  top: 0px;
+}
+.snowtr4 {
+  opacity: 0.3;
+  height: 300px;
+  position: absolute;
+  right:600px;
+  top: 0px;
+}
+.snowtr5 {
+  opacity: 0.5;
+  height: 300px;
+  position: absolute;
+  right:300px;
+  top: 0px;
+}
+.snowtr6 {
+  opacity: 0.6;
+  height: 300px;
+  position: absolute;
+right:0px;
+  top: 0px;
+}
+
+
+.div3snowboard {
+  font-family: Comic Sans MS;
+  float: left;
+  width: 40%;
+}
+
+.t1 {
+  border: solid;
+  border-radius: 50%;
+}
+
+.t2 {
+  border: solid;
+  border-radius: 50%;
+}
