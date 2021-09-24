@@ -44,6 +44,8 @@ hr {
   #E6E6E6
   ***************************************************/
 .div3 {
+  display: absolute;
+  right:0px;
   width: 50%;
   float: right;
   height: 1250px;
